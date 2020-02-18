@@ -1,4 +1,8 @@
-   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
+---
+layout: things
+---
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
    <style>
     .wrapper { 
   overflow:hidden;
